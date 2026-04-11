@@ -28,7 +28,7 @@ Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my ti
 **Frontend**
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 
 ---
 
