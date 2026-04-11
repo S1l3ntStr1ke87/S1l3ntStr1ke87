@@ -1,6 +1,7 @@
 ## Hai, I'm Str1k3r
 
-Hai, I'm a Gay 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
+Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
+and im also gay! like any coder
 
 2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com, so I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
 
@@ -66,6 +67,12 @@ I also mess with console modding, and I have a really early Nintendo Switch!
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/sigmaboyyeah)
 
 ---
+
+### Get in touch
+
+- **Email:** [str1k3r@str1k3r.xyz](mailto:str1k3r@str1k3r.xyz)
+- **Website** [str1k3r.xyz](https://str1k3r.xyz)
+- **Discord:** `str1k3r87`
 
 <!--
 **S1l3ntStr1ke87/S1l3ntStr1ke87** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
