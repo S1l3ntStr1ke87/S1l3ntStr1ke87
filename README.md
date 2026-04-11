@@ -3,7 +3,7 @@
 Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
 and im also gay! like any coder
 
-2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com, so I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
+2 years ago I discovered HTML. Since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com, I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into Python & TypeScript.
 
 ---
 
@@ -41,6 +41,7 @@ and im also gay! like any coder
 **Tools**
 
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
@@ -51,7 +52,7 @@ and im also gay! like any coder
 
 ### Outside of code
 
-When I'm not coding, I like Gaming, TV shows, and movies, ontop of this im a music addict.  
+When I'm not coding, I like gaming, TV shows, and movies, and I'm also a bit of a music addict.  
 I also mess with console modding, and I have a really early Nintendo Switch!  
 I also mess with 3D printers when I get tired of the computer.
 
