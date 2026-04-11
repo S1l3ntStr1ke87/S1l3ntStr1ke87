@@ -68,7 +68,7 @@ I also mess with 3D printers when I get tired of the computer.
 - **Website** [str1k3r.xyz](https://str1k3r.xyz)
 - **Discord:** `str1k3r87`
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-taupe-two-74.vercel.app/api?username=S1l3ntStr1ke87&show_icons=true&hide_border=true" />
   <img src="https://github-readme-stats-taupe-two-74.vercel.app/api/top-langs/?username=S1l3ntStr1ke87&layout=compact&hide_border=true" />
 </div>
