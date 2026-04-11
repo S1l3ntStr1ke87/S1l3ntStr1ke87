@@ -61,7 +61,7 @@ and im also gay! like any coder
 
 When I'm not coding, I like music, gaming, TV shows, and movies.  
 I also mess with console modding, and I have a really early Nintendo Switch!
-And i also build 3D Printers when im sick of the computer
+And i also build 3D Printers when im sick of the computer.
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
