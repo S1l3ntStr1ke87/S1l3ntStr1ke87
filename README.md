@@ -67,8 +67,7 @@ I also mess with 3D printers when I get tired of the computer.
 - **Email:** [str1k3r@str1k3r.xyz](mailto:str1k3r@str1k3r.xyz)
 - **Website:** [str1k3r.xyz](https://str1k3r.xyz)
 - **Discord:** `str1k3r87`
-
 <div align="left">
-  <img src="https://stats.str1k3r.xyz/api?username=S1l3ntStr1ke87&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img src="https://stats.str1k3r.xyz/api/top-langs/?username=S1l3ntStr1ke87&langs_count=8&layout=compact&hide_border=true&theme=tokyonight" />
+  <img src="https://stats.str1k3r.xyz/api?username=S1l3ntStr1ke87&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
+  <img src="https://stats.str1k3r.xyz/api/top-langs/?username=S1l3ntStr1ke87&langs_count=8&layout=compact&hide_border=true&theme=tokyonight&count_private=true" />
 </div>
