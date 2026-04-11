@@ -38,9 +38,9 @@ Hai, I'm a Gay 14 y/o Male from the US, just tryna learn stuff cause it tickles 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-%23f7eeda?style=flat&logo=bun&logoColor=black)
-![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![NGINX](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
