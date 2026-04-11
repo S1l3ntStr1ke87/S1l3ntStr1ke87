@@ -1,7 +1,7 @@
 ## Hai, I'm Str1k3r
 
-Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my tism 😭
-
+Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
+</small>im also gay</small>
 2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com so, I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
 
 ---
@@ -10,6 +10,8 @@ Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my ti
 
 **Wanting to Learn**
 
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
@@ -36,6 +38,7 @@ Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my ti
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Bun](https://img.shields.io/badge/-Bun-%23f7eeda?style=flat&logo=bun&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -44,11 +47,21 @@ Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my ti
 
 **Tools**
 
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)
+![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-FF5722?logo=duckduckgo&logoColor=white)
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
+
+### Outside of code
+
+when im not just learning new stuff and coding stuff i really like, Music, Gaming, TV Shows, Movies.
+
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](#)
 
 ---
 
