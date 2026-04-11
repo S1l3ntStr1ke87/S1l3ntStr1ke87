@@ -18,22 +18,16 @@ and im also gay! like any coder
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-%234B275F.svg?logo=elixir&logoColor=white)
 
----
-
 **Languages**
 
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
----
-
 **Frontend**
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
-
----
 
 **Backend**
 
@@ -43,8 +37,6 @@ and im also gay! like any coder
 ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
 ![NGINX](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
 
 **Tools**
 
