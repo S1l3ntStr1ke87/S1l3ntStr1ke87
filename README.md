@@ -59,7 +59,7 @@ and im also gay! like any coder
 
 ### Outside of code
 
-When I'm not coding, I like music, gaming, TV shows, and movies.  
+When I'm not coding, I like Gaming, TV shows, and movies, ontop of this im a music addict.
 I also mess with console modding, and I have a really early Nintendo Switch!  
 I also mess with 3D printers when I get tired of the computer.
 
