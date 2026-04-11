@@ -1,7 +1,7 @@
 ## Hai, I'm Str1k3r
 
 Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
-</small>im also gay</small>
+<small>im also gay</small>
 2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com so, I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
 
 ---
