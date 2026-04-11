@@ -56,7 +56,8 @@ Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my t
 
 ### Outside of code
 
-when im not just learning new stuff and coding stuff i really like, Music, Gaming, TV Shows, Movies.
+when im not just learning new stuff and coding stuff i really like, Music, Gaming, TV Shows & Movies.
+i also really like software modding consoles, and i also have a really early made nintendo switch!
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
