@@ -6,7 +6,7 @@ Hai, I'm a 14 y/o dev from the US, just tryna learn stuff cause it tickles my ti
 
 ---
 
-### Stuff I mess with
+### Real nerd stuff below
 
 **Wanting to Learn**
 
