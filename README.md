@@ -65,10 +65,6 @@ I also mess with console modding, and I have a really early Nintendo Switch!
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/sigmaboyyeah)
 
-[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
-[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/sigmaboyyeah)
-
 ---
 
 <!--
