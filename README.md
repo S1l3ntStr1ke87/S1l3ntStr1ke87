@@ -68,6 +68,4 @@ I also mess with 3D printers when I get tired of the computer.
 - **Website** [str1k3r.xyz](https://str1k3r.xyz)
 - **Discord:** `str1k3r87`
 
-<!--
-**S1l3ntStr1ke87/S1l3ntStr1ke87** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+[![Str1k3r's GitHub stats](https://github-readme-stats.vercel.app/api?username=S1l3ntStr1ke87)](https://github.com/anuraghazra/github-readme-stats)
