@@ -1,9 +1,8 @@
 ## Hai, I'm Str1k3r
 
-Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
-<small>im also gay</small>
+Hai, I'm a Gay 14 y/o Male from the US, just tryna learn stuff cause it tickles my tism 😭
 
-2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com so, I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
+2 years ago I discovered HTML, and since my old school blocked [CoolMathGames](https://www.coolmathgames.com/) and every other game site except chess.com, so I made my first project [str1k3rsite](https://github.com/S1l3ntStr1ke87/Str1kerSite) so I could play games. From there I got into TypeScript.
 
 ---
 
@@ -55,10 +54,16 @@ Hai, I'm a 14 y/o Male from the US, just tryna learn stuff cause it tickles my t
 ![Visual Studio](https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)
 
+---
+
 ### Outside of code
 
-when im not just learning new stuff and coding stuff i really like, Music, Gaming, TV Shows & Movies.
-i also really like software modding consoles, and i also have a really early made nintendo switch!
+When I'm not coding, I like music, gaming, TV shows, and movies.  
+I also mess with console modding, and I have a really early Nintendo Switch!
+
+[![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
+[![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/sigmaboyyeah)
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
