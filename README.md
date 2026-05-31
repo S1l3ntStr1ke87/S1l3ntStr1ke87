@@ -21,7 +21,6 @@ and I'm also gay! (like any coder apparently 😭)
 
 **Languages**
 
-[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/22nbns/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
@@ -58,6 +57,7 @@ I also mess with console modding, and I have a really early Nintendo Switch!
 I also mess with 3D printers when I get tired of the computer.
 
 [![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)](https://steamcommunity.com/id/s1l3ntstr1k3r/)
+[![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](https://scratch.mit.edu/users/22nbns/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://volt.fm/user/71w1x2r9j277blor)
 [![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?logo=apple%20music&logoColor=white)](https://music.apple.com/profile/sigmaboyyeah)
 
